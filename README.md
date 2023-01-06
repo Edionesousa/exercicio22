@@ -12,4 +12,6 @@ exercios 4
 exercios 5
 <a>https://edionesousa.github.io/exercicio22/fundo005.html</a>
 exercios 6
-<a>https://edionesousa.github.io/exercicio22/fundo006.html</a6
+<a>https://edionesousa.github.io/exercicio22/fundo006.html</a>
+https://edionesousa.github.io/exercicio22/fundo006.html
+
